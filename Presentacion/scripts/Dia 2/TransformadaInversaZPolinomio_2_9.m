@@ -4,7 +4,6 @@
 clear;
 clc;
 
-
 % Se puede conseguir de esta manera
 
 syms k z
